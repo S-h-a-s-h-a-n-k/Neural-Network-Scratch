@@ -1,6 +1,10 @@
 # Neural-Network-Scratch
-Built my own neural network from scratch using Pandas and Numpy.
-Key feature of this network is you can decide number of hidden layers and number of neurons in this hidden layers.
-Also involves small batch while training for faster convergence.
-Implemented this on mnist dataset(Hand written digits).<br/> Note : Dataset file is uploaded as zip.
+- Implementation of neural networks from scratch only using Numpy and Pandas.
+- Users can decide the number of hidden layers.
+- Users can give the size of each hidden layer as input.
+- Uses small batches while training for faster convergence. 
+- Users can also give pre-trained parameters for further training as input. 
+- Implemented on Mnist dataset.
+- Accuracy of 0.8558 achieved which can further be improved on further training.
+<br/> Note : Dataset file is uploaded as zip.
 
